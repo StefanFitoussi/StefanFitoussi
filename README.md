@@ -4,8 +4,10 @@ My name is Stefan Fitoussi and I am an upcoming web developer, currently partici
 
 In my freetime I like to dive into my preferred hobbies, such as:
 - meeting friends
-- TV documentaries
+- tv documentaries
 - fitness
 - reading
 - videogames
+
+Exploring something new has always been one of my favorite things to do, so the challenge of this web development course is exciting and the emphasis on teamwork productive and fun.
 
