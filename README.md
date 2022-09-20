@@ -1,4 +1,4 @@
-# Welcome world! This is my GitHub-Hub B)
+# Welcome world! This is my GitHub-Hub :sunglasses:
 
 My name is Stefan Fitoussi and I am an upcoming web developer, currently participating in the remote [Neue Fische](https://www.neuefische.de/)-bootcamp _WEB DEVELOPER_.
 
