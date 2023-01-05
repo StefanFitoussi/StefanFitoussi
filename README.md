@@ -12,5 +12,3 @@ In my freetime I like to dive into my preferred hobbies, such as:
 Exploring something new has always been one of my favorite things to do, so the challenge of the past web development course was exciting and the emphasis on teamwork is productive and fun.
 
 And here is a funny seal for you!
-
-<img src= "https://cdn.pixabay.com/photo/2022/09/05/10/36/grey-seal-7433843_960_720.jpg" alt="smiling seal image" width="500"/>
