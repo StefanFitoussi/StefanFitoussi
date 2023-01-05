@@ -1,6 +1,6 @@
 # Welcome world! This is my GitHub-Hub :sunglasses:
 
-My name is Stefan Fitoussi and I am an upcoming web developer, currently participating in the remote [Neue Fische](https://www.neuefische.de/)-bootcamp _WEB DEVELOPER_.
+My name is Stefan Fitoussi and I a junior web developer, having participated in the remote [Neue Fische](https://www.neuefische.de/)-bootcamp _WEB DEVELOPER_ from September to December 2022, now look for a place to work.
 
 In my freetime I like to dive into my preferred hobbies, such as:
 - **meeting friends**
@@ -9,7 +9,7 @@ In my freetime I like to dive into my preferred hobbies, such as:
 - **reading**
 - **videogames**
 
-Exploring something new has always been one of my favorite things to do, so the challenge of this web development course is exciting and the emphasis on teamwork is productive and fun.
+Exploring something new has always been one of my favorite things to do, so the challenge of this web development course was exciting and the emphasis on teamwork is productive and fun.
 
 And here is a funny seal for you!
 
